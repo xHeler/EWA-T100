@@ -1,0 +1,5 @@
+X100
+Przetwornik sygnałowy to urządzenie, którego zadaniem jest:
+a. zamiana sygnału elektrycznego na sygnał elektryczny standardowy.
+b. zamiana sygnału elektrycznego na inny sygnał elektryczny,
+c. zamiana wielkości fizycznej na elektryczną

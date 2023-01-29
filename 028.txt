@@ -1,0 +1,6 @@
+X0010
+Do sterowania silnikiem typu BLDC potrzebny jest:
+a. mostek H
+b. tranzystor
+c. układ 3 półmostków H
+d. przekaźnik

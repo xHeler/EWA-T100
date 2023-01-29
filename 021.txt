@@ -1,0 +1,5 @@
+X010
+Które z poniższych urządzeń wchodzą w skład zarówno cyfrowego jak i analogowego wejściowego kanału automatyki?
+a. Przetwornik A/C
+b. Rejestr wejściowy oraz bramka
+c. Układ formujący

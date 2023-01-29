@@ -1,0 +1,6 @@
+X0001
+Co to jest soldermaska dla płytek PCB:
+a. elastyczna forma laminatu z miedzią
+b. warstwa punktów gdzie należy nałożyć pastę lutowniczą
+c. biała warstwa z napisami
+d. warstwa antylutownicza i zabezpieczająca, nadaje kolor płytce

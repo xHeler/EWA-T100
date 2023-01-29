@@ -1,0 +1,5 @@
+X001
+W którym z poniższych układów/kanałów automatyki występuje przetwornik C/A?
+a. Układzie sterującym
+b. Dekoderze adresu
+c. Analogowym, wyjściowym kanale automatyki

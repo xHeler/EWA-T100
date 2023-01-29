@@ -1,0 +1,5 @@
+X010
+W jakim środowisku może powstawać najwięcej zakłóceń?
+a. W pobliżu silników elektrycznych
+b. W pobliżu spawarek łukowych
+c. W pobliżu impulsowych układów zasilania

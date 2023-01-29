@@ -1,0 +1,6 @@
+X0001
+Do sterowanie silnikiem krokowym unipolarnym posiadającym 6 przewodów wyjściowych można zastosować w najprostszej wersji:
+a. pojedynczy mostek H
+b. dwa przekaźniki
+c. szczęść tranzystorów w konfiguracji półmostków H
+d. cztery tranzystory

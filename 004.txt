@@ -1,0 +1,5 @@
+X010
+Którą z poniższych funkcji jest pełnym opisem zadania elementu nastawczego?
+a. Steruje zaworami
+b. Zamienia jeden ze standardowych sygnałów automatyki na wielkości sterujące elementem wykonawczym
+c. Zamienia wielkości elektryczne na fizyczne

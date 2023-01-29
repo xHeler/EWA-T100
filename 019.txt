@@ -1,0 +1,5 @@
+X001
+Który ze sposobów najskuteczniej eliminuje sprzężenia pojemnościowe?
+a. Przesuwanie przewodów z dala od masy
+b. Zwiększenie impedancji wejściowej
+c. Oddzielenie punktów płaszczyzną ekranującą (ekran z blach lub siatki metalowej)

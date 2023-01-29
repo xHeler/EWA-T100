@@ -1,0 +1,5 @@
+X100
+Który z poniższych sposobów eliminuje sprzężenia magnetyczne?
+a. Unikanie zamykania układu w pętle
+b. Nie stosowanie skrętek (skręconych przewodów)
+c. Zbliżanie źródeł zakłóceń magnetycznych do elementów

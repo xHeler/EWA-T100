@@ -1,0 +1,6 @@
+X0001
+Jedną z metod produkcji płytek PCB na skalę przemysłową jest:
+a. mechaniczne frezowanie
+b. metoda sublimacji
+c. metoda sitodruku
+d. metoda fotochemiczna

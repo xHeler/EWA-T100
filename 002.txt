@@ -1,0 +1,5 @@
+X100
+Za pomocą jakich układów można zwiększyć liczbę portów w mikrokontrolerze?
+a. Ekspander I2C
+b. Komparator cyfrowy
+c. Transoptor

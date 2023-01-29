@@ -1,0 +1,6 @@
+X1000
+Do czego służy układ L293D, jaka ma funkcje?
+a. podwójny mostek H
+b. czujnik wilgotności
+c. ekspander portów
+d. układ sterownika do silnika krokowego

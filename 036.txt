@@ -1,0 +1,6 @@
+X0001
+Przy sterowaniu silnikiem krokowym ważna jest kontrola prądu, w tym celu wykorzystuje się:
+a. diodę Schottky’ego
+b. sterowanie szybkie
+c. rezystor wpięty szeregowo do cewki silnika
+d. sterowanie chopperowe

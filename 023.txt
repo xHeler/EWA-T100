@@ -1,0 +1,5 @@
+X010
+Która z podanych opcji może przyczynić się do powstawania zakłóceń w układach elektronicznych w największym stopniu?
+a. Sygnały o małych częstotliwościach
+b. Sprzężenie elektromagnetyczne z przewodami pełniącymi funkcję małych anten
+c. Sprzężenie przez transoptory

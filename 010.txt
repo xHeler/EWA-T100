@@ -1,0 +1,5 @@
+X100
+Które z poniższych opcji nie są źródłem zakłóceń w układach elektronicznych?
+a. Za krótkie przewody
+b. Napięcie sieciowe
+c. Szum wewnętrzny

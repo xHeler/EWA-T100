@@ -1,0 +1,5 @@
+X100
+Które z poniższych stwierdzeń jest prawidłowe dla silników krokowych?
+a. Wraz ze wzrostem częstotliwości maleje moment obrotowy
+b. Wraz ze wzrostem częstotliwości rośnie moment obrotowy
+c. Moment obrotowy jest stały niezależnie od częstotliwości pobudzania silnika

@@ -1,0 +1,5 @@
+X001
+Który z poniższych sposobów pozwoli uniknąć sprzężeń w zakresie częstotliwości radiowych?
+a. Połączenie masy i ekranów w układzie
+b. Tworzenie pętli w obwodzie
+c. Ekranowanie i skracanie końcówek przewodów

@@ -1,0 +1,5 @@
+X001
+Które z poniższych opcji nie pomaga w eliminacji zakłóceń w układach elektronicznych?
+a. Filtracja na wejściu układu
+b. Dokładne ekranowanie układu od wpływu pól magnetycznych i elektrostatycznych
+c. Używanie długich przewodów/linii

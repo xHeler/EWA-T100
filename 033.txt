@@ -1,0 +1,6 @@
+X0001
+Do wysterowania silnika DC w jednym kierunku i zapewnienia płynnej regulacji prędkości oborowej można wykorzystać:
+a. układ L297
+b. przycisk mechaniczny
+c. przekaźnik
+d. tranzystor

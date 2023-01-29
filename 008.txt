@@ -1,0 +1,5 @@
+X100
+Przetwornik pomiarowy to urządzenie, którego zadaniem jest:
+a. zamiana wielkości fizycznej na sygnał elektryczny niestandardowy,
+b. zamiana wielkości fizycznej na sygnał elektryczny standardowy.
+c. zamiana jednego sygnału elektrycznego na inny,

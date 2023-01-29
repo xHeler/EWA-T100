@@ -1,0 +1,6 @@
+X0001
+W celu zabezpieczenia układu sterowania dla cewki przekaźnika przed uszkodzeniami przez „szpilki napięciowe” najlepiej zastosować:
+a. diodę Zenera
+b. rezystor podpięty szeregowo
+c. mostek prostowniczy
+d. dioda Schottky’ego

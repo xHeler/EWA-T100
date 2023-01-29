@@ -1,0 +1,5 @@
+X010
+Tyrystor:
+a. po zapłonie tyrystor przewodzi niezależnie od polaryzacji A - K
+b. gdy złącze A - K przestaje być spolaryzowane, tyrstor gaśnie
+c. wymaga napięcia na bramce przez cały czas przewodzenia A - K

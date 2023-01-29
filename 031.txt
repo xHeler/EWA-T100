@@ -1,0 +1,5 @@
+X010
+Jaka jest wada trójprzewodowej pętli prądowej?
+a. Wysoki koszt
+b. Brak izolacji / wspólna masa
+c. Może obsłużyć urządzenia o małym poborze prądu

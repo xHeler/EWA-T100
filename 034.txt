@@ -1,0 +1,5 @@
+X100
+Jak uniknąć zakłóceń kiedy sygnał przechodzi z jednego urządzenia do drugiego, a każde z urządzeń ma wspólny węzeł masy?
+a. Wprowadzić układ RC o małej stałej czasowej
+b. Zrezygnować z przewodu ekranowanego
+c. Połączyć urządzenia bezpośrednio

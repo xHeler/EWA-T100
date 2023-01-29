@@ -1,0 +1,5 @@
+X010
+Który z poniższych sposobów najbardziej tłumi zakłócenia o charakterze sygnału wspólnego w skrętce wieloprzewodowej?
+a. Przewód ekranowany ze skręconymi przewodami
+b. Jeden przewód podłączony do masy po stronie nadawczej oraz wzmacniacze różnicowe po stronie odbiorczej
+c. Skrętka bez ekranu

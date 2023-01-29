@@ -1,0 +1,5 @@
+X001
+W którym typie silnika prędkość obrotowa MUSI być mniejsza niż częstotliwość wirowania pola
+a. synchronicznym
+b. krokowym
+c. asynchronicznym

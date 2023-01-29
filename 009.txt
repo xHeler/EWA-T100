@@ -1,0 +1,6 @@
+X0010
+Jaki interfejs komunikacyjny wykorzystuje czujnik temperatury DS18B20?
+a. I2C
+b. UART
+c. 1-wire
+d. SPI

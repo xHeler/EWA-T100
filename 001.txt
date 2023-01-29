@@ -1,0 +1,5 @@
+X001
+Co oznacza wartość 0mA w pętli prądowej?
+a. Zwarcie
+b. Poprawne działanie
+c. Przerwę w obwodzie

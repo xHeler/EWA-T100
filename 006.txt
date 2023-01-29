@@ -1,0 +1,6 @@
+X1000
+Dla dzielnika na rysunku Uwe = 12V, R1 = 100, R2=1k
+a. U2 &gt; 10V
+b. U1 &gt; 19V
+c. U2 = 2,5V
+d. U1 &lt; 1V

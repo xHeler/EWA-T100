@@ -1,0 +1,5 @@
+X010
+Za pomocą jakich układów można zrealizować dekoder adresu?
+a. Przetwornika C/A
+b. Komparatorów cyfrowych
+c. Przetwornika A/C

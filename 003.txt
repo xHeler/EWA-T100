@@ -1,0 +1,7 @@
+X1000
+W silniku synchronicznym o 2 parach biegunów, zasilanym z sieci o częstotliwości 60Hz,
+prędkość obrotowa silnika wynosi:
+a. 1800 obr/min
+b. 3000 obr/min
+c. 1500 obr/min
+d. 60 obr/min

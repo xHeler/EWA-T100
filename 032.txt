@@ -1,0 +1,5 @@
+X010
+Jak wiele sygnałów można monitorować mierzyć w ramach jednej pętli prądowej?
+a. <10
+b. Tylko jeden
+c. 3

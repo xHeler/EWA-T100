@@ -1,0 +1,6 @@
+X0001
+Silnik krokowy posiada następujące parametry: rozdzielczość: 200 kroków/obr, napięcie znamionowe: 6,0V, rezystancja cewki 7,5R, indukcyjność uzwojenia: 36mH , moment trzymający 4,4kg*cm. Ile wynosi zalecany pobór prądu na cewkę?
+a. 1A
+b. 1.25A
+c. 0.4A
+d. 0.8A

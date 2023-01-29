@@ -1,0 +1,6 @@
+X0100
+W celu pomiaru napięcia z dużą dokładnością i minimalizacji wpływu obciążania powodowanego przez układ pomiarowy należy zastosować:
+a. dzielnik napięcia
+b. wtórnik napięciowy
+c. diodę Zenera
+d. komparator

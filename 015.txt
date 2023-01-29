@@ -1,0 +1,6 @@
+X0001
+Jaki układ należy zastosować do sterowania prędkością i kierunkiem silnika DC?
+a. układ Darlingtona
+b. pojedynczy tranzystor
+c. mostek prostowniczy
+d. mostek H

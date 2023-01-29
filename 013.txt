@@ -1,0 +1,5 @@
+X001
+Które z poniższych stwierdzeń opisuje działanie silnika reluktancyjnego?
+a. Opiera się na zjawisku wzajemnego oddziaływania magnesów
+b. Jest to silnik hybrydowy, który łączy w sobie kilka zjawisk
+c. Poprzez zamknięcie pola magnetycznego dąży do zmniejszenia oporu magnetycznego i wywołuje ruch

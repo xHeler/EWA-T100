@@ -1,0 +1,6 @@
+X0001
+Co oznacza kropka na przecięciu ścieżek na schemacie elektronicznym?
+a. jest to punkt szczególnej uwagi i wymaga dodatkowego wyjaśnienia
+b. brak połączenia przecinających się ścieżek, różne sygnały
+c. nic nie oznacza, można go dodawać dowolnie
+d. połączenie przecinających się ścieżek, jeden sygnał
